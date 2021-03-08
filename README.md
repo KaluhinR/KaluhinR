@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is **Roman Kaluhin**!                                                                                                                                                                                                                       
-##I am beginner *front-end developer* from Krakow, Poland
+## I am beginner *front-end developer* from Krakow, Poland
 <!--
 **KaluhinR/KaluhinR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
